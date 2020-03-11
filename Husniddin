@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Birinchi dars</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+    <script src="dars1.js"></script>
+</head>
+<body>
+    <script src="js/dars1.js"></script>
+    <form><marquee behavior="alternative" direction="up" bgcolor="green" vspace="50" hspace="30" loop="10" height="100" scrollamount="10">
+        <input type="text" name="ism">ism <br>
+        <input type="password" name="pass">parol <br>
+        <input type="checkbox" name="quti" value="suv">tanlash
+        <br><select name="mamlakat" id=""><option>
+            qashqadaryo
+        </option>
+    
+           </select></marquee>
+    </form>
+</body>
+<body>
+   <bgsound src="music/Afruza.mp3" loop="5" balance="-10000"/>
+    <table border="10" color="green" cellpadding="10" cellspcing="10">
+        <tr>
+            <td>Uzbekistan</td>
+            <td>English</td>
+            <td>Russia</td>
+            <td>Deutsch</td>
+            <td>France</td>
+        </tr>
+        <tr>
+            <td>salom</td>
+            <td>hello</td>
+            <td>здравствуйте</td>
+            <td>I don't know it</td>
+            <td>bonjour</td>
+
+        </tr>
+    </table>
+</body>
+</html>
